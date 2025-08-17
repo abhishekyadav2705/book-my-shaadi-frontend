@@ -1,0 +1,13 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  ...;
+}
+
+.navbar-links li a {
+  ...;
+}
+
+.btn-logout {
+  ...;
+}
